@@ -4,7 +4,7 @@
 `TODO://` The Hello World App changes the text color of the "Hello From Judy" text once the button at the bottom is pressed.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+`TODO://`
 
 ![demo](demo/prework_gif.gif)
 <br>
