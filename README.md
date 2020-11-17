@@ -4,7 +4,7 @@
 The Hello World App changes the color of the "Hello From Judy" text once the button at the bottom is pressed.
 
 ### App Walk-though
-<img src="https://imgur.com/a/S2P7sTW" width=200><br>
+<img src="https://imgur.com/a/S2P7sTW.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
